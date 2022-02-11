@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vk-mini-app/static/css/main.70560457.css",
+    "main.js": "/vk-mini-app/static/js/main.e166ed57.js",
+    "static/media/volleyball.jpg": "/vk-mini-app/static/media/volleyball.b0a91380b4422d48ca1d.jpg",
+    "static/media/football.png": "/vk-mini-app/static/media/football.185de3ad6777b5a4472c.png",
+    "index.html": "/vk-mini-app/index.html",
+    "main.70560457.css.map": "/vk-mini-app/static/css/main.70560457.css.map",
+    "main.e166ed57.js.map": "/vk-mini-app/static/js/main.e166ed57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70560457.css",
+    "static/js/main.e166ed57.js"
+  ]
+}
